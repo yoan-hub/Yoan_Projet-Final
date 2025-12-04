@@ -3,7 +3,7 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8b2280f9-ece6-4117-a16c-1db38cad299d" />
 
 ### Idée de base
-Jeux vidéo comme Destiny
+Jeux vidéo comme Destiny 
 Un jeu dans un univers dystopique, sur terre, dans un loin futur <br>
 Le joueur choisi le third-person or first-person
 
