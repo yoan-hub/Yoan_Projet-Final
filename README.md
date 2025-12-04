@@ -15,5 +15,5 @@ Dans The Traveller, le protecteur s’aventure sur de nombreuses planètes du sy
 *  **Mission manager**: Le joueur Il aura toujours 2 choix de type de mission qu’il pourra décider : avancer la campagne ou faire des side missions (limite de 2) (plusieurs seront proposées) <br>
 Il est important de savoir que les side missions proposé en même temps qu’une mission de campagne changeront après chaque mission de campagne. Cela ajoutera de la variété et permettra au joueur d’avoir différents bonus avant d’avancer chaque partie de l’histoire pour une expérience qui diffère et reste fraiche. <br>
 Les types de missions serons :
-  * Mission de campagne : avancer l’histoire
+  + Mission de campagne : avancer l’histoire
 
