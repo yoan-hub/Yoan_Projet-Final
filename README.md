@@ -16,4 +16,14 @@ Dans The Traveller, le protecteur s’aventure sur de nombreuses planètes du sy
 Il est important de savoir que les side missions proposé en même temps qu’une mission de campagne changeront après chaque mission de campagne. Cela ajoutera de la variété et permettra au joueur d’avoir différents bonus avant d’avancer chaque partie de l’histoire pour une expérience qui diffère et reste fraiche. <br>
 Les types de missions serons :
       - Mission de campagne : avancer l’histoire
+      - Mission de défense/ Piratage
+      - Livraison/ transport
+      - Sauvetages
+      - Bounty hunt
+      - Exploration
+      - Survie
+      - Infiltration
+      - Récupération 
+      - assaut
+      - a
 
