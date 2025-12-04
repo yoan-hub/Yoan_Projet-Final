@@ -1,4 +1,4 @@
-# JEUX: THE TRAVELLER
+# THE TRAVELLER
 
 ### Idée de base
 Jeux vidéo comme Destiny
