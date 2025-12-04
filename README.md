@@ -14,16 +14,16 @@ Dans The Traveller, le protecteur s’aventure sur de nombreuses planètes du sy
 *  **Management de loot (base)**:
 *  **Mission manager**: Le joueur Il aura toujours 2 choix de type de mission qu’il pourra décider : avancer la campagne ou faire des side missions (limite de 2) (plusieurs seront proposées) <br>
 Il est important de savoir que les side missions proposé en même temps qu’une mission de campagne changeront après chaque mission de campagne. Cela ajoutera de la variété et permettra au joueur d’avoir différents bonus avant d’avancer chaque partie de l’histoire pour une expérience qui diffère et reste fraiche. <br>
-Les types de missions serons :
-      - Mission de campagne : avancer l’histoire
-      - Mission de défense/ Piratage
-      - Livraison/ transport
-      - Sauvetages
-      - Bounty hunt
-      - Exploration
-      - Survie
-      - Infiltration
-      - Récupération 
-      - assaut
+Autre la campagne, les types de side missions serons :
+      - Mission de défense/ Piratage: *Donne un radar enhanced la prochaine mission*
+      - Livraison/ transport: *recoit du matériel pour heal*
+      - Sauvetages: *Xp double*
+      - Bounty hunt: *Le joueur reçois les armes de la cibles*
+      - Exploration: *Bonus de mobilité (vitesse pour courir et double jump*
+      - Survie: *Donne plus de resitance (damage reduction)*
+      - Infiltration: *Bonus de damage pour les capacité*
+      - Récupération: *Bonus de munitions*
+      - assaut: *Bonus de damage pour les armes*
+*Tout les buffs resterons jusqu'a la fin de la prochaine mission histoire/campagne*
         
 
