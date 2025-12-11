@@ -2,6 +2,11 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8b2280f9-ece6-4117-a16c-1db38cad299d" />
 
+### Phrase choc
+L'avenir de la terre est entre vos mains...
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/23787738-28fa-48d3-9a1a-be7ce10413b8" />
+
+
 ### Idée de base
 Jeux vidéo comme Destiny 
 Un jeu dans un univers dystopique, sur terre, dans un loin futur <br>
