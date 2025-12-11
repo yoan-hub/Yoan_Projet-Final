@@ -32,8 +32,8 @@ Autre la campagne, les types de side missions serons :
 *Tout les buffs resterons jusqu'a la fin de la prochaine mission histoire/campagne*
 
 ### Besoins
-* **Public cible**
-        - Fan de shooter (ou looter shooter) <br>
+* **Public cible** <br>
+      - Fan de shooter (ou looter shooter) <br>
       - Fan de FPS ET TPS <br>
       - Fan de jeux disirant une expérience de jeu familière mais différente <br>
 * **Important**
