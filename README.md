@@ -47,7 +47,7 @@ Autre la campagne, les types de side missions serons :
 
 
  * ### Concepts:
- * tecnologies:
+ * tecnologies: <br>
        - test
   
 
