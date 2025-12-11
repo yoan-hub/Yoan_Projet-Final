@@ -32,24 +32,17 @@ Autre la campagne, les types de side missions serons :
 *Tout les buffs resterons jusqu'a la fin de la prochaine mission histoire/campagne*
 
 ### Besoins
-*  **Direction** <br>
-      - 1 gérant par département <br>
-      - 2 "game desginer" <br>
-
-*  **Programation et autre** <br>
-      - 6 programmeur <br>
-      - 6 animateur <br>
-      - 6 desginer 3d <br>
-
-*  **Musique et Art** <br>
-      - 2 compostieur <br>
-      - 4 musiciens <br>
-      - 4 artistes <br>
-
-* **Public sible**
-      -
+* **Public cible**
+      - Fan de shooter (ou looter shooter)
+      - Fan de FPS ET TPS
+      - Fan de jeux disirant une expérience de jeu familière mais différente
 * **Important**
-      -
+      - Cycle de vie long
+      - Rejouabilité
+      - Update fréquente (nouveau contenu)
+      - Personnages attachant
+      - rewarding/addicting gameplay loop
+  
 
 
 
