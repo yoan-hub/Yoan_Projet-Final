@@ -32,19 +32,19 @@ Autre la campagne, les types de side missions serons :
 *Tout les buffs resterons jusqu'a la fin de la prochaine mission histoire/campagne*
 
 ### Besoins
-**Direction** <br>
-1 gérant par département <br>
-2 "game desginer" <br>
+*  **Direction** <br>
+      - 1 gérant par département <br>
+      - 2 "game desginer" <br>
 
-**Programation et autre** <br>
-6 programmeur <br>
-6 animateur <br>
-6 desginer 3d <br>
+*  **Programation et autre** <br>
+      - 6 programmeur <br>
+      - 6 animateur <br>
+      - 6 desginer 3d <br>
 
-**Musique et Art** <br>
-2 compostieur <br>
-4 musiciens <br>
-4 artistes <br>
+*  **Musique et Art** <br>
+      - 2 compostieur <br>
+      - 4 musiciens <br>
+      - 4 artistes <br>
 
 
 
