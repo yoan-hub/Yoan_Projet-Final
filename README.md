@@ -46,6 +46,11 @@ Autre la campagne, les types de side missions serons :
       - 4 musiciens <br>
       - 4 artistes <br>
 
+* **Public sible**
+      -
+* **Important**
+      -
+
 
 
 
