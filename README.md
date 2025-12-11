@@ -42,6 +42,8 @@ Autre la campagne, les types de side missions serons :
       - Update fréquente (nouveau contenu) <br>
       - Personnages attachant <br>
       - rewarding/addicting gameplay loop <br>
+      - Histoire intéressante
+      - Diversité de mission
   
 
 
