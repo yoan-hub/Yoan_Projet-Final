@@ -33,7 +33,7 @@ Autre la campagne, les types de side missions serons :
 
 ### Besoins
 * **Public cible** <br>
-      - Fan de shooter (ou looter shooter) <br>
+      * Fan de shooter (ou looter shooter) <br>
       - Fan de FPS ET TPS <br>
       - Fan de jeux disirant une expérience de jeu familière mais différente <br>
 * **Important**
