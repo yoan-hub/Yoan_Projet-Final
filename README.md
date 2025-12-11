@@ -48,7 +48,10 @@ Autre la campagne, les types de side missions serons :
 
  * ### Concepts:
  * tecnologies: <br>
-       - test
+       - jouable avec manette et keyboard/souris
+       - unreal engine 5?
+       - sera publié sur steam
+
   
 
 
