@@ -33,15 +33,15 @@ Autre la campagne, les types de side missions serons :
 
 ### Besoins
 * **Public cible**
-      - Fan de shooter (ou looter shooter)
-      - Fan de FPS ET TPS
-      - Fan de jeux disirant une expérience de jeu familière mais différente
+      - Fan de shooter (ou looter shooter) <br>
+      - Fan de FPS ET TPS <br>
+      - Fan de jeux disirant une expérience de jeu familière mais différente <br>
 * **Important**
-      - Cycle de vie long
-      - Rejouabilité
-      - Update fréquente (nouveau contenu)
-      - Personnages attachant
-      - rewarding/addicting gameplay loop
+      - Cycle de vie long <br>
+      - Rejouabilité <br>
+      - Update fréquente (nouveau contenu) <br>
+      - Personnages attachant <br>
+      - rewarding/addicting gameplay loop <br>
   
 
 
